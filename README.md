@@ -1,6 +1,12 @@
 # 🚀 Customer Churn Intelligence System (ML + SQL + Dashboard)
 
-An end-to-end **Data Science project** that predicts customer churn and delivers actionable business insights using **Exploratory Data Analysis, Statistical Testing, Machine Learning, SQL, and an interactive dashboard**.
+[![Live App](https://img.shields.io/badge/🚀%20Live%20Dashboard-Open%20Now-success)](https://churninsight-hvwtgz7vj9tgt5pyevpxvn.streamlit.app/)
+
+## 🌐 Live Demo
+
+👉 **[Click here to explore the Streamlit App](https://churninsight-hvwtgz7vj9tgt5pyevpxvn.streamlit.app/)**
+
+🔗 Experience real-time churn prediction with interactive analytics, KPIs, and business insights.
 
 ---
 
@@ -8,6 +14,7 @@ An end-to-end **Data Science project** that predicts customer churn and delivers
 
 Customer churn is a critical business problem that directly impacts revenue.
 This project builds a complete **churn intelligence system** that not only predicts churn but also explains *why customers leave* and provides data-driven recommendations.
+
 
 ---
 
